@@ -42,13 +42,13 @@ Welcome to my GitHub! 🚀 I code, create, and explore tech.
 
 <div align="center" style="margin-top: 20px;">
   <div style="margin-bottom: 10px;">
-    [![GitHub](https://img.shields.io/badge/GitHub-QWavey-181717?style=for-the-badge&logo=github)](https://github.com/QWavey)
+    [GitHub](https://img.shields.io/badge/GitHub-QWavey-181717?style=for-the-badge&logo=github)
   </div>
   <div style="margin-bottom: 10px;">
-    [![Twitter](https://img.shields.io/badge/Twitter-@QWavey-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/QWavey)
+    [Twitter](https://img.shields.io/badge/Twitter-@QWavey-1DA1F2?style=for-the-badge&logo=twitter)
   </div>
   <div style="margin-bottom: 10px;">
-    [![Portfolio](https://img.shields.io/badge/Portfolio-QWavey-FF0080?style=for-the-badge&logo=firefox)](https://qwavey.com)
+    [Portfolio](https://img.shields.io/badge/Portfolio-QWavey-FF0080?style=for-the-badge&logo=firefox)
   </div>
 </div>
 
