@@ -40,8 +40,8 @@ const QWavey = {
 - [**File Format Converter**](#) - Convert files to different formats
 
 ## Get in Touch
-📫 Feel free to reach out at [qwavey@example.com](mailto:qwavey@example.com)<br>
-🌐 Check out my GitHub profile [here](https://github.com/QWavey)
+📫 Feel free to reach out. Just create an Issue somewhere in my Repos if you want to contact me. My discord is : sniper74
+
 
 ## Statistics
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=QWavey)
