@@ -9,10 +9,17 @@ Hey there! 👋 I'm QWavey, a passionate developer committed to making the world
 🛠️ Skill Set: Python, C++<br>
 🔒 Interests: Security research, scripting, automation
 
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QWavey)
+
+
 ### Coding Habits
 💻 Primarily uses Python<br>
-✨ Diverse skill set with projects in website ping checks, email generation, and file format converters<br>
-🔄 Engaged coding approach with frequent commits
+🔄 Most useful in an team :D
+
+## Statistics
+![Github Stats](https://github-readme-stats.vercel.app/api?username=QWavey)
 
 ## Skills and Technologies
 ```javascript
@@ -43,11 +50,6 @@ const QWavey = {
 📫 Feel free to reach out. Just create an Issue somewhere in my Repos if you want to contact me. My discord is : sniper74
 
 
-## Statistics
-![Github Stats](https://github-readme-stats.vercel.app/api?username=QWavey)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QWavey)
 
 ## Github Trophies
 [![Trophies](https://github-profile-trophy.vercel.app/?username=QWavey)](https://github.com/QWavey)
