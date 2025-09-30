@@ -1,7 +1,7 @@
 # QWavey's GitHub Profile
 
 ## Intro
-Hey there! 👋 I'm QWavey, a passionate developer committed to making the world a better place by collaborating and innovating in the world of software security and automation. 
+Hey there! 👋 I'm QWavey, a passionate developer committed to making the world a better place by collaborating and innovating in the world of software security and automation. Im sitting on an PC and mobile device since I was 6 years old. Pretty young I know... But it still gave me the Experience im waking up with every day!
 
 
 ### Overview
