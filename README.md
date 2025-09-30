@@ -1,6 +1,6 @@
 # 👋 Hi, I'm QWavey
 
-Welcome to my GitHub! 🚀 I love coding, building projects, and exploring new tech.
+Welcome to my GitHub! 🚀 I code, create, and explore tech.
 
 ---
 
@@ -32,21 +32,24 @@ Welcome to my GitHub! 🚀 I love coding, building projects, and exploring new t
 
 ## 🐍 Most Used Languages
 
-<div align="center">
-  <span style="font-size: 40px;">🐍</span> Python &nbsp;&nbsp;
-  <span style="font-size: 40px;">🌐</span> JavaScript &nbsp;&nbsp;
-  <span style="font-size: 40px;">⚙️</span> Go
+<div align="center" style="font-size: 1.5em; margin-top: 10px;">
+  🐍 Python &nbsp;&nbsp; | &nbsp;&nbsp; 🌐 JavaScript &nbsp;&nbsp; | &nbsp;&nbsp; ⚙️ Go
 </div>
 
 ---
 
 ## 🔗 Connect with Me
 
-<div align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-QWavey-181717?style=for-the-badge&logo=github)](https://github.com/QWavey)
-  [![Twitter](https://img.shields.io/badge/Twitter-@QWavey-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/QWavey)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-QWavey-FF0080?style=for-the-badge&logo=firefox)](https://qwavey.com)
+<div align="center" style="margin-top: 20px;">
+  <div style="margin-bottom: 10px;">
+    [![GitHub](https://img.shields.io/badge/GitHub-QWavey-181717?style=for-the-badge&logo=github)](https://github.com/QWavey)
+  </div>
+  <div style="margin-bottom: 10px;">
+    [![Twitter](https://img.shields.io/badge/Twitter-@QWavey-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/QWavey)
+  </div>
+  <div style="margin-bottom: 10px;">
+    [![Portfolio](https://img.shields.io/badge/Portfolio-QWavey-FF0080?style=for-the-badge&logo=firefox)](https://qwavey.com)
+  </div>
 </div>
 
 ---
-
