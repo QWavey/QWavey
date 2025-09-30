@@ -3,13 +3,9 @@
 ## Intro
 Hey there! 👋 I'm QWavey, a passionate developer committed to making the world a better place by collaborating and innovating in the world of software security and automation. 
 
-## User Analysis
+
 ### Overview
-🔐 Active GitHub user<br>
-📁 6 public repositories<br>
-🔥 Most starred project: "ESP-32-S3-devkitc-BadUSB"<br>
-👨‍💻 94 commits so far<br>
-👤 1 follower, following 6<br>
+
 🛠️ Skill Set: Python, C++<br>
 🔒 Interests: Security research, scripting, automation
 
