@@ -6,7 +6,7 @@ Hey there! 👋 I'm QWavey, a passionate developer committed to making the world
 
 ### Overview
 
-🛠️ Skill Set: Python, C++<br>
+🛠️ Skill Set: Concentrating on Python<br>
 🔒 Interests: Security research, scripting, automation
 
 
