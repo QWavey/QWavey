@@ -25,7 +25,7 @@ Hey there! 👋 I'm QWavey, a passionate developer committed to making the world
 ```javascript
 const QWavey = {
     pronouns: "He" | "Him",
-    code: ["Python", "C++"],
+    code: ["Python", "C++ (I dont like it)"],
     askMeAbout: ["Security research", "Automation", "Software development"],
     technologies: {
         backEnd: {
