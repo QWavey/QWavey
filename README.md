@@ -21,14 +21,6 @@ Hey there! 👋 I'm QWavey, a passionate developer committed to making the world
 ## Statistics
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=QWavey)
 
-NO Skills and Technologies
-
-## Projects
-### Highlighted Repositories
-- [**Website Ping Tools**](#) - Utility for website uptime monitoring
-- [**Temporary Email Generator**](#) -Create disposable email addresses easily
-- [**File Format Converter**](#) - Convert files to different formats
-
 ## Get in Touch
 📫 Feel free to reach out. Just create an Issue somewhere in my Repos if you want to contact me. My discord is : sniper74
 
