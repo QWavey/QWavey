@@ -1,0 +1,20 @@
+name: Update Trophies
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every night at midnight
+  workflow_dispatch: # Allows you to manually click a button to run it
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Generate Trophies
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          username: QWavey
