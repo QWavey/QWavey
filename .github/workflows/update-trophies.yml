@@ -1,21 +1,24 @@
-name: Update Trophies
+name: GitHub Stats Cards
+
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Runs every 24 hours
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
+    name: generate-github-cards
     permissions:
       contents: write
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v4
 
-      - name: Generate Trophies
-        uses: ryo-ma/github-profile-trophy@master
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          username: QWavey
-          OUTPUT_PATH: github-trophies.svg   # <-- Added this explicit file path
+          USERNAME: QWavey
+          # Options: default, visual_studio, github, github_dark, solarized_light, ocean_dark, etc.
+          THEME: github_dark
