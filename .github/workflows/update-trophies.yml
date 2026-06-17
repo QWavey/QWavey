@@ -2,8 +2,8 @@ name: GitHub Stats Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every 24 hours
-  workflow_dispatch: # Allows manual trigger
+    - cron: "0 0 * * *" # Runs automatically once a day at midnight
+  workflow_dispatch: # Allows you to trigger it manually via the Actions tab
 
 jobs:
   build:
@@ -13,12 +13,22 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      # This custom step automatically deletes all old folders before generating the new ones
+      - name: Clean Unused Folders
+        run: |
+          if [ -d "profile-summary-card-output" ]; then
+            echo "Cleaning up old theme folders..."
+            # Deletes everything inside the output folder EXCEPT the github_dark folder
+            find profile-summary-card-output -maxdepth 1 -mindepth 1 ! -name 'github_dark' -exec rm -rf {} +
+          fi
       
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Generate Github Dark Analytics
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: QWavey
-          # Options: default, visual_studio, github, github_dark, solarized_light, ocean_dark, etc.
           THEME: github_dark
