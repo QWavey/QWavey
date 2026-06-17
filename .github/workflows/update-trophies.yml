@@ -1,8 +1,8 @@
 name: Update Trophies
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every night at midnight
-  workflow_dispatch: # Allows you to manually click a button to run it
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -18,3 +18,4 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           username: QWavey
+          OUTPUT_PATH: github-trophies.svg   # <-- Added this explicit file path
