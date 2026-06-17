@@ -24,7 +24,7 @@ Hey there! 👋 I'm QWavey, a passionate developer committed to making the world
 ## Get in Touch
 📫 Feel free to reach out. Just create an Issue somewhere in my Repos if you want to contact me. My discord is : sniper74
 
-## GitHub Stats
-[![QWavey's GitHub stats](https://github-readme-stats.vercel.app/api?username=QWavey&show_icons=true&theme=radial)](https://github.com/QWavey)
+## Github Trophies
+[![Trophies](https://github-profile-trophy.vercel.app/?username=QWavey&row=1)](https://github.com/QWavey)
   
 By exploring my GitHub profile, you'll see my dedication to software development, security research, and the use of technology to make a positive impact on the world. Join me in this mission for a better tomorrow! 🚀
