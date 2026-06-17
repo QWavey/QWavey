@@ -15,20 +15,35 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
-
-      # This custom step automatically deletes all old folders before generating the new ones
-      - name: Clean Unused Folders
-        run: |
-          if [ -d "profile-summary-card-output" ]; then
-            echo "Cleaning up old theme folders..."
-            # Deletes everything inside the output folder EXCEPT the github_dark folder
-            find profile-summary-card-output -maxdepth 1 -mindepth 1 ! -name 'github_dark' -exec rm -rf {} +
-          fi
       
-      - name: Generate Github Dark Analytics
+      - name: Generate All Analytics
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: QWavey
           THEME: github_dark
+
+      # Forcibly remove all other generated theme folders from git before pushing
+      - name: Nuke Unused Theme Folders
+        run: |
+          echo "Intercepting workspace to delete unwanted theme directories..."
+          cd profile-summary-card-output
+          
+          # Delete every directory except 'github_dark'
+          find . -maxdepth 1 -mindepth 1 -type d ! -name 'github_dark' -exec rm -rf {} +
+          
+          # Tell git to track the deletions
+          git add -A
+          
+          # Configure dummy git credentials to apply the deletion commit
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Only commit if there are actually stray folders left to delete
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "🧹 Scripted clean up of unused themes"
+            git push origin HEAD:${{ github.ref }}
+          else
+            echo "Repository is already clean!"
+          fi
