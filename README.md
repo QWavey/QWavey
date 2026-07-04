@@ -1,22 +1,15 @@
 # QWavey's GitHub Profile
 
 ## Intro
-Hey there! 👋 I'm QWavey, a passionate developer committed to making the world a better place by collaborating and innovating in the world of software security and automation. Im sitting on an PC and mobile device since I was 6 years old. Pretty young I know... But it still gave me the Experience im waking up with every day!
+Hey there! Greetings from Germany! I'm QWavey, a passionate developer committed to making the world a better place by collaborating and innovating in the world of software security and automation. Im sitting on an PC and mobile device since I was 6 years old. Pretty young I know... But it still gave me the Experience im waking up with every day!
 
 
 ### Overview
 
-🛠️ Skill Set: Concentrating on Python<br>
-🔒 Interests: Security research, scripting, automation
+Concentrating on Python
+Interests: Security research, scripting, automation
 
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QWavey)
-
-
-### Coding Habits
-💻 Primarily uses Python<br>
-🔄 Most useful in an team :D
 
 ## Statistics
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=QWavey)
