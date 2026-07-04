@@ -12,7 +12,7 @@ Friends are the most important thing for me.
 ## Get in Touch
 Feel free to reach out. Just create an Issue somewhere in my Repos if you want to contact me. My discord is : sniper74
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="100%" />
