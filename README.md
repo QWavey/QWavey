@@ -1,12 +1,13 @@
 
 Hey Hey! Greetings from Germany!
 
-I'm QWavey, a friendly developer wanting to make the world a better place by collaborating with friends and innovating in the world of software security and automation. 
+I'm QWavey. I build software with friends, break things to fix them better, and try to leave the world a little more secure than I found it.
 
+I've been on a PC and mobile device since I was six years old (first device was an Samsung S3 mini lol). Young, I know. But that's exactly where my experience comes from. Every day I wake up with it.
 
-Im sitting on an PC and mobile device since I was 6 years old. Pretty young I know... But it still gave me the Experience im waking up with every day! 
+Coming up with new project ideas is what keeps me going.
 
-Thinking of new Projectideas is very important for me.
+Friends are the most important thing for me.
 
 ## Get in Touch
 Feel free to reach out. Just create an Issue somewhere in my Repos if you want to contact me. My discord is : sniper74
