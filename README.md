@@ -8,10 +8,6 @@ Im sitting on an PC and mobile device since I was 6 years old. Pretty young I kn
 
 Thinking of new Projectideas is very important for me.
 
-
-## Statistics
-![Github Stats](https://github-readme-stats.vercel.app/api?username=QWavey)
-
 ## Get in Touch
 Feel free to reach out. Just create an Issue somewhere in my Repos if you want to contact me. My discord is : sniper74
 
