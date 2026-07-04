@@ -34,7 +34,7 @@ By exploring my GitHub profile, you'll see my dedication to software development
 
 ⚠️ DISCLAIMER
 
-By using any of my codes, you assume full responsibility for any outcome.... including system failures, data loss, or unintended damage. Your actions are your own, and you agree that I am not liable for any consequences arising from their use if something goes wrong. If you are unsure or don´t know what to do, consider cancelling what you are doing, or ask a professional/me.
+By using any of my codes, you assume full responsibility for any outcome.... including system failures, data loss, or unintended damage. Your actions are your own, and you agree that I am not liable for any consequences arising from their use if something goes wrong. If you are unsure or don´t know what to do, consider stopping or cancelling your project or what you are doing, and ask a professional/me.
 
 
 Some of my projects incorporate code, suggestions, or logic generated or assisted by artificial intelligence tools. While I review, test, and refine all output to ensure quality and functionality, I encourage users to exercise their own judgment and due diligence when using my work. I am not just "vibecoding and pushing it out", I do tests and see if it works myself. Sometimes even staying up till midnight. If you don´t like AI Coding, you can move away from my Profile. I understand it.
