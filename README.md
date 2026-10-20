@@ -1,16 +1,14 @@
-
 # Hey Hey! Greetings from Germany!
 
 I'm QWavey. I build software with friends, break things to fix them better, and try to leave the world a little more secure than I found it.
 
-I've been on a PC and mobile device since I was six years old (first device was an Samsung S3 mini lol). Young, I know. But that's exactly where my experience comes from. Every day I wake up with it.
+I've been on a PC and a mobile device since I was six years old. My first device was a Samsung S3 mini, lol. Young, I know, but that's where my experience comes from. I wake up with it every day.
 
-Coming up with new project ideas is what keeps me going.
-
-Friends are the most important thing for me.
+Coming up with new project ideas is what keeps me going. Friends matter most to me.
 
 ## Get in Touch
-Feel free to reach out. Just create an Issue somewhere in my Repos if you want to contact me. My discord is : sniper74
+
+Open an issue on any of my repos if you want to reach me. My Discord is sniper74.
 
 ## GitHub Analytics
 
@@ -27,21 +25,21 @@ Feel free to reach out. Just create an Issue somewhere in my Repos if you want t
   <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" width="49.5%" />
   <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="49.5%" />
 </p>
-  
-By exploring my GitHub profile, you'll see my dedication to software development, security research, and the use of technology to make a positive impact on the world!
 
----------------
+The repos here cover software development, security research, and tools that try to make things work better.
 
-⚠️ DISCLAIMER
+---
 
-By using any of my codes, you assume full responsibility for any outcome.... including system failures, data loss, or unintended damage. Your actions are your own, and you agree that I am not liable for any consequences arising from their use if something goes wrong. If you are unsure or don´t know what to do, consider stopping or cancelling your project or what you are doing, and ask a professional/me.
+## Disclaimer
 
+By using any of my code, you take full responsibility for what happens with it. That includes system failures, data loss, and unintended damage. I'm not liable for consequences of using it. If you're unsure what you're doing, stop, cancel the project, and ask a professional or me first.
 
-Some of my projects incorporate code, suggestions, or logic generated or assisted by artificial intelligence tools. While I review, test, and refine all output to ensure quality and functionality, I encourage users to exercise their own judgment and due diligence when using my work. I am not just "vibecoding and pushing it out", I do tests and see if it works myself. Sometimes even staying up till midnight.
+Some projects include code, suggestions, or logic produced with AI tools. I review, test, and refine all of that output, and I check that it works myself, sometimes until midnight. I'm not just vibecoding and pushing it out. Still, use your own judgment and do your own due diligence.
 
-Ideas are ALWAYS from me and NEVER were a prompt given to AI like: "AI give me project Ideas". While working in a project and having my Ideas completed I sometimes ask AI for new suggestions for Ideas and then I take some looks. They are not selected in 9/10 ways.
+The ideas are always mine. I never ask an AI to "give me project ideas." Once a project is underway, I sometimes ask an AI for new suggestions and look at what comes back. Most of it doesn't get picked (about 9 in 10).
 
-So as I said, If you don´t like AI Coding or Codes, you are free to move away from my Profile. I understand it.
----------------
+If you don't like AI-assisted code, you're free to move on from my profile. I understand.
+
+---
 
 Sidenote: Jesus loves you!
