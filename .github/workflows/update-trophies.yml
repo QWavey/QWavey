@@ -5,6 +5,11 @@ on:
     - cron: "0 0 * * *" # Runs automatically once a day at midnight
   workflow_dispatch: # Allows you to trigger it manually via the Actions tab
 
+# Queue scheduled and manual runs instead of letting them overlap and race on the same files
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
