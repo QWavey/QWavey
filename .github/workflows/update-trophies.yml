@@ -21,6 +21,15 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
       
+      # Productive Time buckets are computed in the offset given here; use Berlin local time (CET/CEST) so DST is handled
+      - name: Compute Berlin UTC offset
+        id: tz
+        run: |
+          z=$(TZ=Europe/Berlin date +%z)
+          h=$((10#${z:1:2}))
+          if [ "${z:0:1}" = "-" ]; then h=$((-h)); fi
+          echo "utc_offset=$h" >> "$GITHUB_OUTPUT"
+
       - name: Generate All Analytics
         uses: vn7n24fzkq/github-profile-summary-cards@58ec032e39377dd38329bdc1db70074fe74fbb17 # release branch head as of 2026-10-24
         env:
@@ -28,3 +37,4 @@ jobs:
         with:
           USERNAME: QWavey
           THEME: github_dark
+          UTC_OFFSET: ${{ steps.tz.outputs.utc_offset }}
